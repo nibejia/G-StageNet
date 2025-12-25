@@ -27,7 +27,7 @@ from sklearn.manifold import TSNE
 # ---------------------- CONFIG ----------------------
 IMG_SIZE = 224
 EMBED_DIM = 128
-DATA_DIR = "C:/Users/Nibedita/Desktop/PAPILA_dataset/new_dataset"
+DATA_DIR = "./data/PAPILA"
 N_SPLITS = 5
 N_CLASSES = 3
 FUSION_DIM = 128  # common latent dimension
