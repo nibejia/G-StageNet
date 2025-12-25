@@ -9,7 +9,7 @@ embeddings using an adaptive feature-level gating mechanism trained
 under a triplet-loss objective.
 
 For reproducibility and simplicity, preprocessing, training, feature fusion,
-evaluation, and visualization are implemented in a single executable script.
+evaluation, and visualization are implemented in a single executable python script. This file documents experimental settings; values are defined directly in the script.
 
 ## Requirements
 Install dependencies using:
